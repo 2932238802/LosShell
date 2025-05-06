@@ -10,6 +10,7 @@ set(CMAKE_DEPENDS_LANGUAGES
 set(CMAKE_DEPENDS_DEPENDENCY_FILES
   "/home/losa/LosAngelous/Project/LosShell/main.cc" "CMakeFiles/test.dir/main.cc.o" "gcc" "CMakeFiles/test.dir/main.cc.o.d"
   "/home/losa/LosAngelous/Project/LosShell/src/CountCmdNumber.cc" "CMakeFiles/test.dir/src/CountCmdNumber.cc.o" "gcc" "CMakeFiles/test.dir/src/CountCmdNumber.cc.o.d"
+  "/home/losa/LosAngelous/Project/LosShell/src/Exit.cc" "CMakeFiles/test.dir/src/Exit.cc.o" "gcc" "CMakeFiles/test.dir/src/Exit.cc.o.d"
   "/home/losa/LosAngelous/Project/LosShell/src/Mytime.cc" "CMakeFiles/test.dir/src/Mytime.cc.o" "gcc" "CMakeFiles/test.dir/src/Mytime.cc.o.d"
   )
 

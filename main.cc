@@ -7,9 +7,10 @@ int main(){
     // 主循环 //
     while(1)
     {
+        // 打印基础信息 //
         // 格式化打印 
         Prompt::Print();
-        // 打印基础信息 //
+        
         // 获取指令
         std::string str;
         getline(std::cin,str);

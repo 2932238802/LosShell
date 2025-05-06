@@ -16,5 +16,5 @@ void Mytime::GetTime()
     auto str = std::put_time(local_time, "%Y-%m-%d %H:%M:%S");
 
     // 打印
-    std::cout << str;
+    std::cout <<ANSI_COLOR_BLUE<<str<<ANSI_COLOR_RESET;
 }

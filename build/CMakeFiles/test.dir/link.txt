@@ -1,1 +1,1 @@
-/usr/bin/c++ CMakeFiles/test.dir/main.cc.o CMakeFiles/test.dir/src/Mytime.cc.o CMakeFiles/test.dir/src/CountCmdNumber.cc.o -o test 
+/usr/bin/c++ CMakeFiles/test.dir/main.cc.o CMakeFiles/test.dir/src/Mytime.cc.o CMakeFiles/test.dir/src/CountCmdNumber.cc.o CMakeFiles/test.dir/src/Exit.cc.o -o test 

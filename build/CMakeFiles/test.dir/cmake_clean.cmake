@@ -3,6 +3,8 @@ file(REMOVE_RECURSE
   "CMakeFiles/test.dir/main.cc.o.d"
   "CMakeFiles/test.dir/src/CountCmdNumber.cc.o"
   "CMakeFiles/test.dir/src/CountCmdNumber.cc.o.d"
+  "CMakeFiles/test.dir/src/Exit.cc.o"
+  "CMakeFiles/test.dir/src/Exit.cc.o.d"
   "CMakeFiles/test.dir/src/Mytime.cc.o"
   "CMakeFiles/test.dir/src/Mytime.cc.o.d"
   "test"

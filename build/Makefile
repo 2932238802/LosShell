@@ -177,6 +177,30 @@ src/CountCmdNumber.cc.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/test.dir/build.make CMakeFiles/test.dir/src/CountCmdNumber.cc.s
 .PHONY : src/CountCmdNumber.cc.s
 
+src/Exit.o: src/Exit.cc.o
+.PHONY : src/Exit.o
+
+# target to build an object file
+src/Exit.cc.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/test.dir/build.make CMakeFiles/test.dir/src/Exit.cc.o
+.PHONY : src/Exit.cc.o
+
+src/Exit.i: src/Exit.cc.i
+.PHONY : src/Exit.i
+
+# target to preprocess a source file
+src/Exit.cc.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/test.dir/build.make CMakeFiles/test.dir/src/Exit.cc.i
+.PHONY : src/Exit.cc.i
+
+src/Exit.s: src/Exit.cc.s
+.PHONY : src/Exit.s
+
+# target to generate assembly for a file
+src/Exit.cc.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/test.dir/build.make CMakeFiles/test.dir/src/Exit.cc.s
+.PHONY : src/Exit.cc.s
+
 src/Mytime.o: src/Mytime.cc.o
 .PHONY : src/Mytime.o
 
@@ -216,6 +240,9 @@ help:
 	@echo "... src/CountCmdNumber.o"
 	@echo "... src/CountCmdNumber.i"
 	@echo "... src/CountCmdNumber.s"
+	@echo "... src/Exit.o"
+	@echo "... src/Exit.i"
+	@echo "... src/Exit.s"
 	@echo "... src/Mytime.o"
 	@echo "... src/Mytime.i"
 	@echo "... src/Mytime.s"

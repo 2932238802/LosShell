@@ -11,6 +11,7 @@ target_sources(test PRIVATE
     main.cc 
     "${PROJECT_SOURCE_DIR}/src/Mytime.cc"
     "${PROJECT_SOURCE_DIR}/src/CountCmdNumber.cc" 
+    "${PROJECT_SOURCE_DIR}/src/Exit.cc" 
 )
 
 target_include_directories(test PRIVATE 
